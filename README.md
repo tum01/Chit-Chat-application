@@ -1,14 +1,14 @@
 # Chit-Chat-application
 Chit-Chat is a Chatting Application.
 
-Tech Stack
+# Tech Stack
 User Interface: Vite,ReactJS
 
 Backend: ExpressJS,NodeJS
 
 Database: MongoDB
 
-Features
+# Features
 Authentication
 Real Time Chatting
 One to One Chat
